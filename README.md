@@ -1,6 +1,6 @@
 # ChainPay-SmartContract 
 
-CPay Token - TRC20 ethereum platform
+CPay Token - TRC20 Tron platform
 <br/>
 name : CPay<br/>
 smartcontract : TFyfB5ggmPwVDs8kU2X9vPY7idzaNpaVno<br/>
